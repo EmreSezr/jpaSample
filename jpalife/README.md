@@ -1,5 +1,5 @@
 # JPA PrePersist Sample
-Bu proje, Java Persistence API (JPA) kullanarak kalıtım yapısını kullanarak veri tabanı işlemleri örneği göstermektedir. Proje, bir spor salonu için üyelerin kaydını ve aktivitelerini yönetmek için bir veritabanı şemasını tasarlamaktadır.
+Bu proje, Java Persistence API (JPA) kullanarak entitylerin yaşam döngüsüne etki eden listener'larını kullanarak örnek bir veritabanı işlemleri uygulamasıdır.
 
 ## Başlangıç
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
